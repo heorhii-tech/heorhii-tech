@@ -17,14 +17,13 @@
 
 </div>
 
-<div align="center">
-Contact me:
-  
+
 </div>
 
 <div align="left">
+**Contact me:
   
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-📱 WhatsApp: [Chat on WhatsApp](https://wa.me/1234567890)  
+📧 Email: [heorhiimadzharov@gmail.com](heorhiimadzharov@gmail.com)  
+📱 WhatsApp: [Chat on WhatsApp](https://wa.me/380983007855)  
 
 </div>
