@@ -21,7 +21,7 @@
 </div>
 
 <div align="left">
-**Contact me:
+**Contact me:**
   
 📧 Email: [heorhiimadzharov@gmail.com](heorhiimadzharov@gmail.com)  
 📱 WhatsApp: [Chat on WhatsApp](https://wa.me/380983007855)  
