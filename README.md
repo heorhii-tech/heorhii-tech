@@ -47,9 +47,13 @@
 📞 **Call me** +31 6 38699561  
 
 </div>
+
 &nbsp;  
+
  🚀 **Tech Stack**  
+ 
 &nbsp;  
+
 <table align="center">
   <tr>
     <th>🌐 Front-End</th>
