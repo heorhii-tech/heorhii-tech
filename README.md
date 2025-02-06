@@ -28,7 +28,7 @@
 
 
 <a href="mailto:heorhiimadzharov@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150px" alt="Email">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100px" alt="Email">
 </a>  
 
 
