@@ -7,6 +7,10 @@
 <div align="center">
 
 ### Hello World! I am **George**, a 29-year-old **Front-End Developer** 🚀  
+<div height="40px">
+
+  
+</div>
 
 <div align="left">
 
