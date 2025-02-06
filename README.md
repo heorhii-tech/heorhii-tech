@@ -8,7 +8,6 @@
 
 ### Hello World! I am **George**, a 29-year-old **Front-End Developer** 🚀  
 
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+- Front End Developer in [InGenius](https://www.linkedin.com/company/thisisingenius/posts/?feedView=all)
 
 
