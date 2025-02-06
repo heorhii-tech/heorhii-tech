@@ -42,7 +42,9 @@
     <a href="https://www.linkedin.com/in/heorhii-madzharov/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-  </span>  
+  </span> 
+  
+  &nbsp;  
 
   📞 **Call me** +31 6 38699561
 </div>
