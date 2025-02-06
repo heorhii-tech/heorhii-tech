@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello World 👋 I am George i am 29 years old and i am Front End Developer
 
 <!--
 **heorhii-tech/heorhii-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<h3 align="center">🚀 Full-Stack разработчик из России</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres,aws,docker" />
+  </a>
+</p>
+
+<div align="center">
+  
+  ```typescript
+  const dev: Developer = {
+    code: ["TypeScript", "Python"],
+    tools: ["Docker", "Kubernetes"],
+    architecture: ["microservices", "serverless"],
+  };
