@@ -17,4 +17,14 @@
 
 </div>
 
+<div align="center">
+Contact me:
+  
+</div>
 
+<div align="left">
+  
+📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+📱 WhatsApp: [Chat on WhatsApp](https://wa.me/1234567890)  
+
+</div>
