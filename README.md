@@ -20,11 +20,18 @@
 
 </div>
 
+## 📬 Contact Me  
+
 <div align="left">
-  
-**Contact me**
-  
-📧 Email: [heorhiimadzharov@gmail.com](heorhiimadzharov@gmail.com)  
-📱 WhatsApp: [Chat on WhatsApp](https://wa.me/380983007855)  
+
+📧 **Email:**  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heorhiimadzharov@gmail.com)  
+
+📱 **WhatsApp:**  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/31638699561)  
+
+📞 **Phone:**  
+[![Phone](https://img.shields.io/badge/Call%20Me-007AFF?style=for-the-badge&logo=iphone&logoColor=white)](tel:+31638699561)  
 
 </div>
+
