@@ -54,7 +54,9 @@
 &nbsp;  
 
 <div align="center">
-   🚀  **Tech Stack**  
+  
+   🚀  **Tech Stack**
+   
 </div>
  
 &nbsp;  
