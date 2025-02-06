@@ -1,8 +1,6 @@
-## Hello World 👋 I am George i am 29 years old and i am Front End Developer
+# Добро пожаловать в мой репозиторий
 
-<!--
-**heorhii-tech/heorhii-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-ААА
-  
+<div align="center">
+  <h2 style="color:blue;">Привет! Я Георгий, Frontend-разработчик</h2>
+  <p>Я создаю современные веб-приложения с использованием React, JavaScript, HTML и CSS.</p>
+</div>
