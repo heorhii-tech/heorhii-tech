@@ -14,4 +14,4 @@
 - **Open to new opportunities and collaborations**  
 - **Constantly learning and exploring new technologies**  
 
-</div>
+
