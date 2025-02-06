@@ -20,7 +20,7 @@
 
 </div>
 
-## 📬 Contact Me  
+ 📬 **Contact Me**  
 
 <div align="left">
 
@@ -31,7 +31,9 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/31638699561)  
 
 
-[![Phone](https://img.shields.io/badge/Call%20Me-007AFF?style=for-the-badge&logo=iphone&logoColor=white)](tel:+31638699561)  
+<a href="tel:+31638699561">
+  <img src="https://img.shields.io/badge/Call%20Me-007AFF?style=for-the-badge&logo=iphone&logoColor=white" alt="Call Me">
+</a>  
 
 </div>
 
