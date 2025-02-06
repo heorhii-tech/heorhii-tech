@@ -8,14 +8,7 @@
 
 ### Hello World! I am **George**, a 29-year-old **Front-End Developer** 🚀  
 
-</div>
-<style
-  type="text/css">
-h1 {color:red;}
-
-p {color:blue;}
-</style>
-<p>okay</p>
-
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 
