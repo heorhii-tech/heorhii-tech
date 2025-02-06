@@ -8,6 +8,8 @@
 
 ### Hello World! I am **George**, a 29-year-old **Front-End Developer** 🚀  
 
-- Front End Developer in [InGenius](https://www.linkedin.com/company/thisisingenius/posts/?feedView=all)
-
+- **Front End Developer** at [InGenius](https://www.linkedin.com/company/thisisingenius/posts/?feedView=all)  
+- **Studying web development** since 2022  
+- **Open to new opportunities and collaborations**  
+- **Constantly learning and exploring new technologies**  
 
