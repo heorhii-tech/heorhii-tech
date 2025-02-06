@@ -42,9 +42,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   alt="LinkedIn">
 </a>  
 
+📞 **Call me** +31 6 38699561  
+
 &nbsp;  
 
-📞 **Call me** +31 6 38699561  
+
 
 </div>
 
