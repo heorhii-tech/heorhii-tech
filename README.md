@@ -48,9 +48,9 @@
 
 </div>
 &nbsp;  
-## 🚀 Tech Stack  
-
-<table>
+ 🚀 **Tech Stack**  
+&nbsp;  
+<table align="center">
   <tr>
     <th>🌐 Front-End</th>
     <th>🎨 Styling & Bundling</th>
@@ -101,9 +101,9 @@
   </tr>
 </table>
 
----
+&nbsp;  
 
-## 🗣️ Communication & Collaboration  
+🗣️ **Communication & Collaboration**  
 
 ✔️ **Team player**  
 ✔️ **Experience working with designers**  
