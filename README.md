@@ -9,5 +9,9 @@
 ### Hello World! I am **George**, a 29-year-old **Front-End Developer** 🚀  
 
 </div>
+<p align="center">
+  <img src="https://via.placeholder.com/600x2/00c6ff/ffffff?text=" width="100%" style="background: linear-gradient(to right, #00c6ff, #ffffff);">
+</p>
+
 
 
