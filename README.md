@@ -47,6 +47,66 @@
 📞 **Call me** +31 6 38699561  
 
 </div>
+&nbsp;  
+## 🚀 Tech Stack  
 
-javascript typescript react graphql nodejs
+<table>
+  <tr>
+    <th>🌐 Front-End</th>
+    <th>🎨 Styling & Bundling</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      </a>
+      <br>
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+      </a>
+      <br>
+      <a href="https://react.dev/">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+      </a>
+      <br>
+      <a href="https://nextjs.org/">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+      </a>
+    </td>
+    <td>
+      <a href="https://tailwindcss.com/">
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+      </a>
+      <br>
+      <a href="https://mui.com/">
+        <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI">
+      </a>
+      <br>
+      <a href="https://ant.design/">
+        <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design">
+      </a>
+      <br>
+      <a href="https://chakra-ui.com/">
+        <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI">
+      </a>
+      <br>
+      <a href="https://ui.shadcn.com/">
+        <img src="https://img.shields.io/badge/ShadCN%2FUI-121212?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN UI">
+      </a>
+      <br>
+      <a href="https://webpack.js.org/">
+        <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🗣️ Communication & Collaboration  
+
+✔️ **Team player**  
+✔️ **Experience working with designers**  
+✔️ **Experience collaborating with backend developers**  
+✔️ **Active involvement in project development** 
 
