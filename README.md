@@ -10,10 +10,10 @@
 
 <div align="left">
 
-- **Front End Developer** at [InGenius](https://www.linkedin.com/company/thisisingenius/posts/?feedView=all)  
-- **Studying web development** since 2022  
-- **Open to new opportunities and collaborations**  
-- **Constantly learning and exploring new technologies**  
+- Front End Developer at [InGenius](https://www.linkedin.com/company/thisisingenius/posts/?feedView=all)  
+- Studying web development since 2022.  
+- Open to new opportunities and collaborations.
+- Constantly learning and exploring new technologies.
 
 </div>
 
