@@ -7,10 +7,7 @@
 <div align="center">
 
 ### Hello World! I am **George**, a 29-year-old **Front-End Developer** 🚀  
-<div height="40px">
-
-  
-</div>
+&nbsp;  
 
 <div align="left">
 
@@ -21,7 +18,7 @@
 ---
 </div>
 
-
+&nbsp;  
 </div>
 
  📬 **Contact Me**  
@@ -45,7 +42,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   alt="LinkedIn">
 </a>  
 
-
+&nbsp;  
 
 📞 **Call me** +31 6 38699561  
 
